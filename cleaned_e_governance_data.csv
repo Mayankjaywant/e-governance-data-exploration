@@ -1,0 +1,13 @@
+state_ut,grievances_received,grievances_disposed,avg_resolution_days,digital_service_score,disposal_rate_percent
+Delhi,12800,11650,18,82,91.02
+Maharashtra,11200,10080,21,79,90.0
+Karnataka,9800,8620,24,76,87.96
+Uttar Pradesh,15400,12800,29,68,83.12
+Tamil Nadu,9100,8000,23,74,87.91
+Gujarat,8700,7740,20,78,88.97
+Rajasthan,10100,8680,27,70,85.94
+West Bengal,7600,6760,25,69,88.95
+Madhya Pradesh,8400,7476,31,65,89.0
+Bihar,9300,8184,34,61,88.0
+Odisha,6200,5518,22,73,89.0
+Kerala,5900,5369,16,84,91.0
